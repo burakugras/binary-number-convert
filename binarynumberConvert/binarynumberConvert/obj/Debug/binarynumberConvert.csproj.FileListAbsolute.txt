@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\bin\Debug\binarynumberConvert.exe.config
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\bin\Debug\binarynumberConvert.exe
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\bin\Debug\binarynumberConvert.pdb
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\obj\Debug\binarynumberConvert.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\obj\Debug\binarynumberConvert.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\obj\Debug\binarynumberConvert.exe
+C:\Users\PC\source\repos\binarynumberConvert\binarynumberConvert\obj\Debug\binarynumberConvert.pdb
